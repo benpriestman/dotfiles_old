@@ -12,6 +12,26 @@
             "current_border_width": 2,
             "floating": "auto_off",
             "geometry": {
+               "height": 1041,
+               "width": 1916,
+               "x": 2,
+               "y": 18
+            },
+            "name": "WorkFlowy",
+            "percent": 0.111111111111111,
+            "swallows": [
+               {
+               "class": "^WorkFlowy$",
+               "instance": "^workflowy$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
                "height": 1060,
                "width": 945,
                "x": 10,
@@ -63,6 +83,27 @@
                {
                "class": "^Google\\-chrome$",
                "instance": "^crx_enkoknghiigafpendpmnmpmnmmpdaion$"
+               }
+            ],
+            "type": "con"
+        },,
+        {
+            "border": "none",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1060,
+               "width": 945,
+               "x": 10,
+               "y": 1090
+            },
+            "name": "APN Partner Central Home ~ Partner Central",
+            "percent": 0.0909090909090909,
+            "swallows": [
+               {
+               "class": "^Google\\-chrome$",
+               "instance": "^crx_bgbmofeeclgeongcjdghlodofklmgbpg$",
+               "title": "^APN\\ Partner\\ Central\\ Home\\ \\~\\ Partner\\ Central$"
                }
             ],
             "type": "con"
